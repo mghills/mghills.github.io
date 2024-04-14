@@ -4,7 +4,7 @@ body {
 
 p {
   color: #588157;
-  font-family: Alagard;
+  font-family: "Pixelify Sans", sans-serif;
   font-smooth: never; /* Disable font smoothing */
   -webkit-font-smoothing: none; /* For older versions of WebKit browsers */
   text-rendering: optimizeSpeed; /* Optimize rendering speed */
@@ -13,7 +13,7 @@ p {
 
 h1 {
   color: #344e41;
-  font-family: Alagard;
+  font-family: "Pixelify Sans", sans-serif;
   font-smooth: never; /* Disable font smoothing */
   -webkit-font-smoothing: none; /* For older versions of WebKit browsers */
   text-rendering: optimizeSpeed; /* Optimize rendering speed */
